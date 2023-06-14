@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "House M.D. Regular";
+    src: url(House_M_D_Font_by_iTed.ttf);
+}
+
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+  h1 {
+    text-align: center;
+    font-family: "House M.D. Regular";
+  }
+  p {
+    text-align: left;
+    font-family: "Calibri Light";
+  }
+  h2 {
+    text-align: center;
+    font-family: "Helvetica";
+  }
+  ul {
+    text-align: left;
+    font-family: "Calibri Light";
+  }
+  th {
+    font-family:"Calibri Light";
+  }
+  a {
+    font-family:"Calibri Light"
+  }
+ 
